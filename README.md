@@ -1,4 +1,4 @@
-### atc # 24r ### Rain #METER
+# 24METER (atc24rainmeter)
 ATC24Rainmeter/24meter is a open source that use Rainmeter to show atc24 info stats. 
 
 ## Get started
