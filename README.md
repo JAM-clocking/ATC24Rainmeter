@@ -9,8 +9,8 @@
 
 ### Requirement
 
-Min - window 7/8 (untested) 4GB ram
-Preffered - Window 10 or 11 8GB ram
+Min - window 7/8 (untested), 4GB ram
+Preffered - Window 10 or 11, 8GB ram
 
 ### Performance
 
