@@ -8,7 +8,7 @@
 
 1. Install [Rainmeter](https://www.rainmeter.net/)
 2. Download our latest release
-3. Install the .rmskin package
+3. Install the `.rmskin` package
 4. load 24METER skin in rainmeter
 
 #
