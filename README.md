@@ -1,4 +1,4 @@
-<img src="@Resources/Images/Banners/header.png"  />
+<img src="https://cdn.discordapp.com/attachments/1370369618341789779/1407667849736097882/Untitled20_20250820175810.png?ex=68a6f058&is=68a59ed8&hm=fcbf1ce095617d34bd6e485db5eb1e1a262ec84891ed926135e9d1d713aa11aa&"  />
 
 # 24METER
 24METER (ATC24Rainmeter) is a open source that use Rainmeter to show atc24 info stats such as ACFTcount, ATClist and more!
