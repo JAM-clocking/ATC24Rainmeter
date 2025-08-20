@@ -4,7 +4,7 @@
 24METER (ATC24Rainmeter) is open-source 3rd party app to show ATC24 info on desktop.
 </sub> </div>
 
-## Get started
+# Get started
 
 1. Install [Rainmeter](https://www.rainmeter.net/)
 2. Install 24Meter.rmskin
