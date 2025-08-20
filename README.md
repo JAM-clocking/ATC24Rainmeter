@@ -19,6 +19,7 @@ Min - window 7/8 (untested), 4GB ram or more
 
 Preffered - Window 10 or 11, 8GB ram or more
 
+_note: RAINMETER is only work on window_
 #
 
 ### Performance
