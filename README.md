@@ -4,8 +4,8 @@
 ## Get started
 
 1. Install [Rainmeter](https://www.rainmeter.net/)
-2. Install 24Rainmeter skin package
-3. load your preffered skin in rainmeter
+2. Install 24Meter.rmskin
+3. Run the 24Meter
 
 ### Requirement
 
