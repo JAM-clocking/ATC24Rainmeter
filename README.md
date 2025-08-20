@@ -16,3 +16,9 @@ Preffered - Window 10 or 11 8GB ram
 
 Rainmeter itself is lightweight so it wouldnt affect your devices performance unless u have an 20 years old potato
 Ram usage < 10-50
+
+## About 24METER 
+
+Our skins collect data from our server which used WebSocket to harvest 24RC data
+
+note that the our Server programme source code is not publicly open and is independent from this Git Repo.
