@@ -1,8 +1,4 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
-</p>
+<img src="@Resources/Images/Banners/header.png"  />
 
 # 24METER
 24METER (ATC24Rainmeter) is a open source that use Rainmeter to show atc24 info stats such as ACFTcount, ATClist and more!
