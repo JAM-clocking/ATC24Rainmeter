@@ -10,6 +10,8 @@
 2. Install 24Meter.rmskin
 3. Run the 24Meter
 
+<IMG SRC="https://cdn.discordapp.com/attachments/1397156042378313759/1407733259563044946/birthday-design-flex-banner-background-hd-download-wpkha.webp?ex=68a72d43&is=68a5dbc3&hm=a2e3f79847df105f8fd27cae9377c1e8d68ae7c7420e56e3970e480233a5de19&">
+
 ## 24METER 
 
 ### About
