@@ -16,7 +16,7 @@
 
 Our skins collect data from our public server (Singapore region) which use WebSocket to harvest 24RC data
 
-_ _Note that the our Server programme source-code is not publicly open and is independent from this Git repo_ _
+_Note that the our Server programme source-code is not publicly open and is independent from this Git repo_
 
 ### Requirement
 
