@@ -3,7 +3,7 @@ ATC24Rainmeter/24meter is a open source that use Rainmeter to show atc24 info st
 
 ## Get started
 
-1. Install rainmeter
+1. Install 「rainmeter」（https://www.rainmeter.net/）
 2. Install 24Rainmeter skin package
 3. load your preffered skin in rainmeter
 
