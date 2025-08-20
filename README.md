@@ -1,5 +1,5 @@
-# 24METER (atc24rainmeter)
-ATC24Rainmeter/24meter is a open source that use Rainmeter to show atc24 info stats. 
+# 24METER
+24METER (ATC24Rainmeter) is a open source that use Rainmeter to show atc24 info stats such as ACFTcount, ATClist and more!
 
 ## Get started
 
