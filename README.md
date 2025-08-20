@@ -4,7 +4,7 @@
 
 24METER (ATC24Rainmeter) is a open source that use Rainmeter to show atc24 info stats such as ACFTcount, ATClist and more!
 
-## Get started
+# Get started
 
 1. Install [Rainmeter](https://www.rainmeter.net/)
 2. Install 24Meter.rmskin
