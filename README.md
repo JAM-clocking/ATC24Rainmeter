@@ -7,8 +7,9 @@
 # Get started
 
 1. Install [Rainmeter](https://www.rainmeter.net/)
-2. Install 24Meter.rmskin
-3. Run the 24Meter
+2. Download our latest release
+3. Install the .rmskin package
+4. load 24METER skin in rainmeter
 
 #
 
