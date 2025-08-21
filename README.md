@@ -13,18 +13,18 @@
 
 # Ver 0.0.5
 
-added widgets:
-  -ACFTnATCcount.ini ; count how many aircrafts and atc present.
-  -ACFTnATClist.ini ; list all aircraft callsign and atc that is on.
-  -ACFTYPElist ; list all aircraft type that are currently used in atc24.
+added widgets:<br>
+-ACFTnATCcount.ini ; count how many aircrafts and atc present.<br>
+-ACFTnATClist.ini ; list all aircraft callsign and atc that is on.<br>
+-ACFTYPElist ; list all aircraft type that are currently used in atc24.
 
 ### Requirement
 
-Min - window 7/8 (untested), 4GB ram or more
+**Min** - window 7/8 (untested), 4GB ram or more
 
-Preffered - Window 10 or 11, 8GB ram or more
+**Preffered** - Window 10 or 11, 8GB ram or more
 
-_note: RAINMETER is only work on window_
+_note: RAINMETER will only work on window_
 #
 
 ### Performance
