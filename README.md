@@ -7,7 +7,7 @@
 # Get started
 
 1. Install [Rainmeter](https://www.rainmeter.net/)
-2. Download our latest release
+2. Download our [latest release](https://github.com/JAM-clocking/ATC24Rainmeter/releases)
 3. Install the `.rmskin` package
 4. load 24METER skin in rainmeter
 
