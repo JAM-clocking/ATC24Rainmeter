@@ -19,8 +19,7 @@ added widgets:<br>
 -ACFTnATClist.ini ; list all aircraft callsign and atc that is on.<br>
 -ACFTYPElist ; list all aircraft type that are currently used in atc24.
 
-### Requirement
-#
+## Requirement
 
 **Min** - window 7/8 (untested), 4GB ram or more
 
@@ -28,15 +27,13 @@ added widgets:<br>
 
 _note: RAINMETER will only work on window_
 
-### Performance
-#
+## Performance
 
 Rainmeter itself is lightweight so it wouldnt affect your devices performance unless u have an 20 years old potato 🥔 
 
 Ram usage < 10-50MB
 
-### About
-#
+## About
 
 Our skins collect data from our public server (Singapore region) which use WebSocket to harvest 24RC data
 
