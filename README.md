@@ -11,7 +11,7 @@
 3. Install the `.rmskin` package
 4. load 24METER skin in rainmeter
 
-# Latest release <br>
+## Latest release <br>
 ### v0.0.5-Beta
 
 added widgets:<br>
