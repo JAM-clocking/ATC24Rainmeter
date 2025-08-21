@@ -12,6 +12,7 @@
 4. load 24METER skin in rainmeter
 
 #Latest release
+
 ##v0.0.5-Beta
 
 added widgets:<br>
