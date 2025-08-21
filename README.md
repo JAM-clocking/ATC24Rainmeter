@@ -25,6 +25,7 @@ _note: RAINMETER is only work on window_
 ### Performance
 
 Rainmeter itself is lightweight so it wouldnt affect your devices performance unless u have an 20 years old potato 🥔 
+
 Ram usage < 10-50MB
 
 #
