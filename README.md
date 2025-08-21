@@ -11,7 +11,12 @@
 3. Install the `.rmskin` package
 4. load 24METER skin in rainmeter
 
-# Ver 0.1.0
+# Ver 0.0.5
+
+added widgets:
+-ACFTnATCcount.ini ; count how many aircrafts and atc present.
+-ACFTnATClist.ini ; list all aircraft callsign and atc that is on.
+-ACFTYPElist ; list all aircraft type that are currently used in atc24.
 
 ### Requirement
 
