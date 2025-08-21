@@ -12,7 +12,7 @@
 4. load 24METER skin in rainmeter
 
 ## Latest release <br>
-### v0.0.5-Beta
+<h3>v0.0.5-Beta </h3>
 
 added widgets:<br>
 -ACFTnATCcount.ini ; count how many aircrafts and atc present.<br>
