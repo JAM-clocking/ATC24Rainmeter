@@ -13,12 +13,16 @@
 4. load 24METER skin in rainmeter
 
 ## Latest release <br>
-<h3>v0.0.5-Beta </h3>
+<h3>v0.1.0 Release </h3>
 
-added widgets:<br>
--ACFTnATCcount.ini ; count how many aircrafts and atc present.<br>
--ACFTnATClist.ini ; list all aircraft callsign and atc that is on.<br>
--ACFTYPElist ; list all aircraft type that are currently used in atc24.
+added widgets/skins:<br>
+-ACFT-ATC-count.ini ; count how many aircrafts and atc present.<br>
+-Callsign-ATC-list.ini ; list all aircraft callsign and atc that is on.<br>
+-ACFT-ATC-graph.ini ; show line graph of ACFT and Controller online.
+
+added variants to each widgets/skins:<br>
+-Dark ; semi-transparant black with white fonts. <br>
+-transparant-white ; fully transparant fill with white stroke & fonts.
 
 ## Requirement
 
