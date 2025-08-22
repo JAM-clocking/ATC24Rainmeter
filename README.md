@@ -1,5 +1,5 @@
 <img src="https://cdn.discordapp.com/attachments/1370369618341789779/1407729581078876331/Untitled20_20250820221434.png?ex=68a729d6&is=68a5d856&hm=de2b1f59ffd767e39b15f6ebef9c2f19eaf61b8de9ede887d734e3a67f4d6e8e&"  /> <br>
-<img src="https://cdn.discordapp.com/attachments/1370369618341789779/1408370430946967604/image.png?ex=68a97eac&is=68a82d2c&hm=9547c2e37177037471caa6810b45a6f41105b89d5de80b56f4f23a3bd83c1b6f&"  />
+<img src="https://cdn.discordapp.com/attachments/1370369618341789779/1408370829179355187/image.png?ex=68a97f0b&is=68a82d8b&hm=632ef1276e608415b1dbf644368ecc131987a82354dce487d4da9478ad7507f5&"  />
 
 <div align="center"> <sub>
 24METER (ATC24Rainmeter) is open-source 3rd party app to show ATC24 info on desktop.
